@@ -1,14 +1,13 @@
 # Halo semua! 
  
-Perkenalkan nama saya **Gilang Ramadhan**.<br>
+Perkenalkan nama saya **Thoriq Al Faqih**.<br>
  
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang Mahasiswa Informatika di Universitas Gunadarma.<br>
  
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+Saya seorang Data Enthusiast dan sekarang sedang menjalani program Coding Camp 2026 Powered by DBS Foundation path Data Science.<br>
+Berikut akun [Dicoding](https://www.linkedin.com/in/thoriqafqh) saya.<br>
  
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
- 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Jika tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
  
 ### Github Statistic
 <p align="left">
